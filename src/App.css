@@ -12,3 +12,21 @@
     rgba(2, 245, 255, 1) 100.2%
   );
 }
+
+.frame {
+  background: rgba(0, 0, 0, 0.7);
+  width: 20em;
+  height: 45em;
+  max-height: 90%;
+
+  border-radius: 0.6em;
+  padding-top: 1em;
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+
+  box-shadow: 0em 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.4);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
