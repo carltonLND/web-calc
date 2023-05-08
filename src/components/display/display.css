@@ -1,0 +1,24 @@
+.secondary {
+  color: orangered;
+  font-size: 1em;
+  padding-right: 5%;
+}
+
+.primary {
+  color: darkorange;
+  font-size: 3em;
+  padding-right: 5%;
+}
+
+.display {
+  background: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-height: 4em;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+  border-top-right-radius: 0.6em;
+  border-top-left-radius: 0.6em;
+
+  text-align: end;
+}

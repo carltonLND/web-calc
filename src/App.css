@@ -9,14 +9,15 @@
 
 .frame {
   background: rgba(0, 0, 0, 0.7);
-  width: 20em;
-  height: 45em;
-  max-height: 90%;
+  width: 25em;
+  height: 35em;
+  max-height: 80%;
+  max-width: 90%;
 
   border-radius: 0.6em;
-  padding-top: 1em;
-  padding-left: 3.5em;
-  padding-right: 3.5em;
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
 
   box-shadow: 0em 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.4);
 
